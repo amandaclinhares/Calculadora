@@ -1,0 +1,16 @@
+C:\Users\luizr\Desktop\Projetos Amanda\CALCULADORA\bin\Debug\net5.0\CALCULADORA.exe
+C:\Users\luizr\Desktop\Projetos Amanda\CALCULADORA\bin\Debug\net5.0\CALCULADORA.deps.json
+C:\Users\luizr\Desktop\Projetos Amanda\CALCULADORA\bin\Debug\net5.0\CALCULADORA.runtimeconfig.json
+C:\Users\luizr\Desktop\Projetos Amanda\CALCULADORA\bin\Debug\net5.0\CALCULADORA.runtimeconfig.dev.json
+C:\Users\luizr\Desktop\Projetos Amanda\CALCULADORA\bin\Debug\net5.0\CALCULADORA.dll
+C:\Users\luizr\Desktop\Projetos Amanda\CALCULADORA\bin\Debug\net5.0\ref\CALCULADORA.dll
+C:\Users\luizr\Desktop\Projetos Amanda\CALCULADORA\bin\Debug\net5.0\CALCULADORA.pdb
+C:\Users\luizr\Desktop\Projetos Amanda\CALCULADORA\obj\Debug\net5.0\CALCULADORA.csprojAssemblyReference.cache
+C:\Users\luizr\Desktop\Projetos Amanda\CALCULADORA\obj\Debug\net5.0\CALCULADORA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizr\Desktop\Projetos Amanda\CALCULADORA\obj\Debug\net5.0\CALCULADORA.AssemblyInfoInputs.cache
+C:\Users\luizr\Desktop\Projetos Amanda\CALCULADORA\obj\Debug\net5.0\CALCULADORA.AssemblyInfo.cs
+C:\Users\luizr\Desktop\Projetos Amanda\CALCULADORA\obj\Debug\net5.0\CALCULADORA.csproj.CoreCompileInputs.cache
+C:\Users\luizr\Desktop\Projetos Amanda\CALCULADORA\obj\Debug\net5.0\CALCULADORA.dll
+C:\Users\luizr\Desktop\Projetos Amanda\CALCULADORA\obj\Debug\net5.0\ref\CALCULADORA.dll
+C:\Users\luizr\Desktop\Projetos Amanda\CALCULADORA\obj\Debug\net5.0\CALCULADORA.pdb
+C:\Users\luizr\Desktop\Projetos Amanda\CALCULADORA\obj\Debug\net5.0\CALCULADORA.genruntimeconfig.cache
